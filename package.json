@@ -1,0 +1,29 @@
+{
+  "name": "str-randomizer",
+  "version": "1.0.0",
+  "description": "Creating a npm package for npm course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Manuel Rojas <Duranalejandro661@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "str-randomizer": "bin/global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelARD13/str-randomizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelARD13/str-randomizer/issues"
+  },
+  "homepage": "https://github.com/ManuelARD13/str-randomizer#readme",
+  "preferGlobal": true,
+  "dependencies": {
+    "str-randomizer": "^1.0.0"
+  }
+}
